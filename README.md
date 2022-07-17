@@ -19,7 +19,8 @@ Your users should:
 - View the optimal layout for the site depending on their device's screen size
 
 ## Links
-Live Site URL: (https://hregniez.github.io/product-preview-card-component-main/)
+
+Live Site URL: (https://hregniez.github.io/four-card-feature-section-master/)
 
 ## Built with
 
@@ -37,7 +38,8 @@ CSS
 
 Git/Github
 
-Author
+## Author
+
 Github - [HRegniez] https://github.com/HRegniez
 LinkedIn - https://www.linkedin.com/in/henri-regniez/
 Mail - henriregniez124@gmail.com
